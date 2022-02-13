@@ -7,7 +7,9 @@ Cabe destacar que el local brinda su servicio tanto a clientes particulares (los
 Para este proyecto, se analizarán los siguientes datos encontrados en el SGBD:
 
 •	Datos de las compañías de seguros (ID compañía y nombre).
+
 •	Datos de las reparaciones (ID Reparación, tipo de producto, fecha de creación de la reparación y la ganancia neta de la reparación).
+
 •	Datos de los estados de seguimiento de las reparaciones con sus respectivas fechas de actualización (de forma histórica).
 
 Como objetivos principales, se desean evaluar las demoras de las reparaciones más solicitadas en el local, la evolución de la cantidad de reparaciones realizadas tanto de reparaciones provenientes de particulares como de compañías de seguros, y finalmente, realizar un análisis de las ganancias en forma histórica. Para ello, se utilizará la información histórica disponible en la base de datos, para los años 2019 (junio-diciembre), 2020 (enero-diciembre) y 2021 (enero-marzo).

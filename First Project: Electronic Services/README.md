@@ -1,3 +1,5 @@
+100% Spanish lenguaje
+
 Se analizará un servicio técnico de la ciudad de Mar del Plata, cuyo nombre y datos de clientes fueron reservados a fin de proteger la identidad de las partes. El local cuenta con un software online, el cual recaba información de las reparaciones y ofrece estados de seguimiento en tiempo real de las mismas (ingresado, en proceso de diagnóstico, reparado para entregar, etcétera).
 
 Cabe destacar que el local brinda su servicio tanto a clientes particulares (los que comúnmente ingresan al local), como también clientes derivados de compañías de seguros de la zona. Con lo cual, el software fue diseñado principalmente para mejorar la gestión y transparencia en todas las reparaciones proveniente de compañías de seguros, dándoles accesos de usuarios, informes escritos y fotos de los equipos de forma veloz y eficiente.

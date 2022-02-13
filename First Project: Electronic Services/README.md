@@ -1,4 +1,4 @@
-100% Spanish lenguaje
+100% Spanish languaje
 
 Se analizará un servicio técnico de la ciudad de Mar del Plata, cuyo nombre y datos de clientes fueron reservados a fin de proteger la identidad de las partes. El local cuenta con un software online, el cual recaba información de las reparaciones y ofrece estados de seguimiento en tiempo real de las mismas (ingresado, en proceso de diagnóstico, reparado para entregar, etcétera).
 
